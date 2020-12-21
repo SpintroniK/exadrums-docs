@@ -14,4 +14,15 @@ Some Debian-based Linux distributions already ship with exadrums. So, if you are
 sudo apt install exadrums
 ```
 
+If all goes well, _exadrums_ is installed, and you can start using it.
+For more information about the software usage, you can read the [software documentation](#software-documentation) section.
+
+### Building eXaDrums
+
+If your Linux distribution doesn't include eXaDrums, or ships an outdated version of the software, you may want to build the packages and install them yourself.
+
+#### Dependencies
+
+## Software Documentation
+
 ## Developers
